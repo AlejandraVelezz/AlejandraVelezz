@@ -1,8 +1,6 @@
 <!-- HEADER ANIMADO Y LLAMATIVO CON MOVIMIENTO -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E100FF&center=true&vCenter=true&width=600&height=100&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%90%A7;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software;Full-Stack+Developer+%7C+Linux+%26+IA" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AlejandraVelezz&label=Perfil+Visitado&color=e100ff&style=flat-square" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
