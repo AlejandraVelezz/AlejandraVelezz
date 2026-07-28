@@ -107,9 +107,6 @@
 
 ---
 
-## 🐍 Mi Mapa de Contribuciones
-
----
 
 ## 🐍 Mi Mapa de Contribuciones
 
