@@ -1,5 +1,15 @@
+<p align="center">
+  <!-- Banner principal -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&animation=twinkling" width="100%" />
+</p>
 
-
+<!-- ELEMENTOS FLOTANTES (GIFs Transparentes) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BLDnrOi/giphy.gif" width="120px" alt="Cat typing / Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150px" alt="Space Floating" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svvjDD26P6/giphy.gif" width="120px" alt="Floating Astronaut" />
+</p>
+<!-- fin animacion-->
 
 <!-- BANNER SHARK / NEÓN CON TEXTO COMPLETO -->
 <p align="center">
