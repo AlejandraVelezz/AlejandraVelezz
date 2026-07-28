@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Técnico en Programación de Software | Full-Stack Developer</strong><br>
-  <i>Apasionada por el desarrollo web, las arquitecturas limpias y el ecosistema Linux.</i>
+  <i>Apasionada por el desarrollo web, las arquitecturas limpias y la administración de sistemas operativos.</i>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - 🎓 **Técnico en Programación de Software**.
 - 🛠️ Desarrollando plataformas de gestión web, sistemas de inventario y soluciones full-stack.
-- 🐧 Entusiasta del entorno **Ubuntu / Linux** para desarrollo y administración de proyectos.
+- ⚙️ **Sistemas Operativos & SysAdmin:** Dominio en instalación, personalización, configuración y mantenimiento de entornos **Linux (Ubuntu)** y **Windows**, incluyendo gestión de terminales y máquinas virtuales.
 - ⚡ Enfoque en crear APIs eficientes, bases de datos relacionales y soluciones de software reales.
 
 ---
@@ -36,13 +36,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Base de Datos & Herramientas
+### 🖥️ Sistemas Operativos & Herramientas
 <p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
