@@ -25,14 +25,9 @@
   </a>
 </p>
 
-<!-- CONTADOR DE VISITAS & REDES (SOLO UNA VEZ) -->
+<!-- CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlejandraVelezz&label=Visitas+al+perfil&color=e100ff&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -126,4 +121,26 @@
   <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF&logo=github" />
   <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
   <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 ¡Hablemos! / Contacto
+
+<p align="center">
+  ¡Siempre estoy abierta a colaborar en nuevos proyectos, resolver dudas o discutir sobre desarrollo de software!
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AlejandraVelezz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
