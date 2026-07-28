@@ -95,19 +95,12 @@
   </tr>
 </table>
 ---
+ ---
 
 ## 📊 Mi Gráfico de Actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandraVelezz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Gráfico de actividad de Alejandra" />
-</p>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlejandraVelezz&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" width="100%" alt="Trofeos GitHub" />
 </p>
 
 ---
@@ -119,5 +112,3 @@
   <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
   <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
 </p>
----
-
