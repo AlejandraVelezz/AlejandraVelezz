@@ -108,8 +108,10 @@
 ---
 
 
-## 🐍 Mi Mapa de Contribuciones
+---
+
+## 📊 Mi Gráfico de Actividad
 
 <p align="center">
-  <img src="https://snk-badge.vercel.app/api/snk/AlejandraVelezz" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandraVelezz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Gráfico de actividad de Alejandra" />
 </p>
