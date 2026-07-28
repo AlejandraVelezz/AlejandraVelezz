@@ -34,12 +34,6 @@
   <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- BANNER SHARK / NEÓN CON TEXTO COMPLETO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:7F00FF,100:E100FF&height=220&text=¡Hola,%20soy%20Alejandra!%20👋<!-- BANNER SUPERIOR CON ONDA ANIMADA -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&animation=twinkling" width="100%" />
-</p>
 
 <!-- EFECTO MÁQUINA DE ESCRIBIR DINÁMICO -->
 <p align="center">
