@@ -1,8 +1,4 @@
-<!-- MASCOTA O ELEMENTO ANIMADO FLOTANTE ENTRE SECCIONES -->
-<div align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200px" alt="Developer coding animated" />
-</div>
-<!-- fin animacion-->
+
 
 <!-- BANNER SHARK / NEÓN CON TEXTO COMPLETO -->
 <p align="center">
