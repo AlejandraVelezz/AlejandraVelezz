@@ -104,3 +104,11 @@
   <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
   <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
 </p>
+
+---
+
+## 🐍 Mi Mapa de Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlejandraVelezz/AlejandraVelezz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
