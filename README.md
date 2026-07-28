@@ -1,18 +1,18 @@
-<!-- HEADER ANIMADO Y LLAMATIVO CON MOVIMIENTO -->
+<!-- BANNER SUPERIOR CON ONDA ANIMADA -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&animation=twinkling" width="100%" />
 </p>
 
-<!-- EFECTO MÁQUINA DE ESCRIBIR CORREGIDO (SIN CORTAR) -->
+<!-- EFECTO MÁQUINA DE ESCRIBIR DINÁMICO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E100FF&center=true&vCenter=true&width=900&height=70&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%91%8B;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software+%F0%9F%92%BB;Full-Stack+Developer+%7C+FastAPI%2C+React+%26+PHP;Sistemas+Operativos%2C+Linux+%26+IA+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- CONTADOR DE VISITAS & REDES -->
 <p align="center">
-  <strong>Técnico en Programación de Software | Full-Stack Developer</strong><br>
-  <i>Apasionada por el desarrollo web, las arquitecturas limpias y la administración de sistemas operativos.</i>
+  <img src="https://komarev.com/ghpvc/?username=AlejandraVelezz&label=Visitas+al+perfil&color=e100ff&style=flat-square" />
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ## 💻 Sobre mí
 
 - 🎓 **Técnico en Programación de Software**.
-- 🛠️ Desarrollando plataformas de gestión web, sistemas de inventario y soluciones full-stack.
-- ⚙️ **Sistemas Operativos & SysAdmin:** Dominio en instalación, personalización, configuración y mantenimiento de entornos **Linux (Ubuntu)** y **Windows**, incluyendo gestión de terminales y máquinas virtuales.
-- ⚡ Enfoque en crear APIs eficientes, bases de datos relacionales y soluciones de software reales.
+- 🛠️ Desarrollo de plataformas web full-stack, sistemas de inventario y proyectos integrados con Inteligencia Artificial.
+- 🖥️ **Sistemas Operativos & SysAdmin:** Experiencia en instalación, personalización, configuración y administración de entornos **Linux (Ubuntu)**, **Windows** y máquinas virtuales.
+- ⚡ Enfoque en arquitectura limpia, APIs RESTful y optimización de bases de datos.
 
 ---
 
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🖥️ Sistemas Operativos & Herramientas
+### 🗄️ Sistemas Operativos & Herramientas
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -52,11 +52,9 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
-
 
 ## 📌 Proyectos Destacados
 
@@ -78,7 +76,7 @@
       <h3 align="center">🤖 CRM Freelancer</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/IA_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
       <p>Plataforma de gestión para trabajadores independientes con integración de Inteligencia Artificial.</p>
@@ -89,10 +87,12 @@
   </tr>
 </table>
 
-## 📊 Métricas & Estado
+---
+
+## ⚡ Estado & Actividad
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF" />
-  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF" />
-  <img src="https://img.shields.io/badge/Status-Activa_programando_⚡-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
+  <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
 </p>
