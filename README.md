@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO / BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=¡Hola,%20soy%20Alejandra !%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=¡Hola,%20soy%20Alejandra!%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - 🎓 Estudiando **Programación de Software**.
 - 🛠️ Desarrollando soluciones web full-stack y plataformas de gestión (CRMs).
-- 🐧 Entusiaste del entorno **Ubuntu / Linux** para desarrollo y despliegues.
+- 🐧 Entusiasta del entorno **Ubuntu / Linux** para desarrollo y despliegues.
 - ⚡ Intereses adicionales: Desarrollo de interfaces 3D interactivas, hardware/IoT y automatización.
 
 ---
@@ -63,6 +63,6 @@
 ## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandraVelezz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraVelezz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
