@@ -94,20 +94,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## ⚡ Estado & Actividad
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF&logo=github" />
-  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
-  <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
-</p>
-
----
-
-
 ---
 
 ## 📊 Mi Gráfico de Actividad
@@ -118,8 +104,20 @@
 
 ---
 
-## 🧊 Mapa de Contribuciones en 3D
+## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=AlejandraVelezz&theme=dark" width="100%" alt="Contribuciones 3D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlejandraVelezz&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" width="100%" alt="Trofeos GitHub" />
 </p>
+
+---
+
+## ⚡ Estado & Actividad
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
+  <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
+</p>
+---
+
