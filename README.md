@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO / BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&text=¡Hola,%20soy%20Alejandra!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00f2fe,100:4facfe&height=220&text=¡Hola,%20soy%20Alejandra!%20👋&fontSize=45&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
 <p align="center">
