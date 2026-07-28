@@ -115,3 +115,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandraVelezz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Gráfico de actividad de Alejandra" />
 </p>
+
+---
+
+## 🧊 Mapa de Contribuciones en 3D
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=AlejandraVelezz&theme=dark" width="100%" alt="Contribuciones 3D" />
+</p>
