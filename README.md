@@ -1,12 +1,12 @@
 <!-- HEADER ANIMADO Y LLAMATIVO CON MOVIMIENTO -->
-<!-- BANNER CON EFECTO DE TEXTO ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&animation=twinkling" width="100%" />
 </p>
 
+<!-- EFECTO MÁQUINA DE ESCRIBIR CORREGIDO (SIN CORTAR) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E100FF&center=true&vCenter=true&width=700&height=70&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%91%8B;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software+%F0%9F%92%BB;Full-Stack+Developer+%7C+Python%2C+React+%26+PHP;Especialista+en+Linux%2C+Ubuntu+%26+IA+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E100FF&center=true&vCenter=true&width=900&height=70&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%91%8B;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software+%F0%9F%92%BB;Full-Stack+Developer+%7C+FastAPI%2C+React+%26+PHP;Sistemas+Operativos%2C+Linux+%26+IA+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
