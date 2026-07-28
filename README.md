@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Estudiante de Programación de Software | Full-Stack Developer en Formación</strong><br>
+  <strong>Técnico en Programación de Software | Full-Stack Developer</strong><br>
   <i>Apasionada por el desarrollo web, las arquitecturas limpias y el ecosistema Linux.</i>
 </p>
 
@@ -17,10 +17,10 @@
 
 ## 💻 Sobre mí
 
-- 🎓 Estudiando **Programación de Software**.
-- 🛠️ Desarrollando soluciones web full-stack y plataformas de gestión (CRMs).
-- 🐧 Entusiasta del entorno **Ubuntu / Linux** para desarrollo y despliegues.
-- ⚡ Intereses adicionales: Desarrollo de interfaces 3D interactivas, hardware/IoT y automatización.
+- 🎓 **Técnico en Programación de Software**.
+- 🛠️ Desarrollando plataformas de gestión web, sistemas de inventario y soluciones full-stack.
+- 🐧 Entusiasta del entorno **Ubuntu / Linux** para desarrollo y administración de proyectos.
+- ⚡ Enfoque en crear APIs eficientes, bases de datos relacionales y soluciones de software reales.
 
 ---
 
@@ -28,11 +28,12 @@
 
 ### 🚀 Lenguajes & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Base de Datos & Herramientas
@@ -48,15 +49,20 @@
 
 ## 📌 Proyectos Destacados
 
-### 💼 CRM Freelancer Platform
-> Sistema de gestión de clientes, tareas y proyectos enfocado en trabajadores independientes.
-- **Backend & BD:** Python + MySQL con diseño de base de datos relacional.
-- **Puntos clave:** Autenticación de usuarios, panel de control dinámico y control de estados.
+### 💼 [Inventario CeluTech](https://github.com/AlejandraVelezz/Inventario-CeluTech)
+> Sistema web de gestión de inventario para tiendas de tecnología.
+- **Tech Stack:** FastAPI, React, MySQL.
+- **Aspectos clave:** Arquitectura moderna para control de stock, gestión de productos y procesamiento de datos.
 
-### 🌐 Web Interactiva 3D
-> Sitio web con renderizado 3D interactivo en el navegador.
-- **Tech Stack:** JavaScript, Three.js, HTML5, CSS3.
-- **Puntos clave:** Modelado e integración de elementos gráficos tridimensionales interactivos.
+### 📊 [CRM Freelancer](https://github.com/AlejandraVelezz/crm-freelancer)
+> Plataforma de gestión de clientes, tareas y proyectos para profesionales independientes.
+- **Tech Stack:** JavaScript, HTML/CSS, Base de Datos Relacional.
+- **Aspectos clave:** Organización de proyectos, flujo de trabajo y métricas de desempeño.
+
+### 🛒 [Sistema de Ventas PHP & MySQL](https://github.com/AlejandraVelezz/sistem-ventas-php-mysql)
+> Aplicación web backend para control transaccional de ventas.
+- **Tech Stack:** PHP, MySQL, HTML/CSS.
+- **Aspectos clave:** Gestión de registros, operaciones CRUD y persistencia de datos.
 
 ---
 
