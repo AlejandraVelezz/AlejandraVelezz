@@ -57,24 +57,37 @@
 
 ---
 
+
 ## 📌 Proyectos Destacados
 
-### 💼 [Inventario CeluTech](https://github.com/AlejandraVelezz/Inventario-CeluTech)
-> Sistema web de gestión de inventario para tiendas de tecnología.
-- **Tech Stack:** FastAPI, React, MySQL.
-- **Aspectos clave:** Arquitectura moderna para control de stock, gestión de productos y procesamiento de datos.
-
-### 🤖 [CRM Freelancer](https://github.com/AlejandraVelezz/crm-freelancer)
-> Plataforma de gestión de clientes, tareas y proyectos integrada con Inteligencia Artificial para optimizar flujos de trabajo.
-- **Tech Stack:** JavaScript, HTML/CSS, Base de Datos Relacional, Integración con Inteligencia Artificial (IA).
-- **Aspectos clave:** Automatización de procesos asistida por IA, organización de proyectos y métricas de desempeño.
-
-### 🛒 [Sistema de Ventas PHP & MySQL](https://github.com/AlejandraVelezz/sistem-ventas-php-mysql)
-> Aplicación web backend para control transaccional de ventas.
-- **Tech Stack:** PHP, MySQL, HTML/CSS.
-- **Aspectos clave:** Gestión de registros, operaciones CRUD y persistencia de datos.
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Inventario CeluTech</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p>Sistema web de gestión de inventario para tiendas de tecnología con control de stock y flujo transaccional.</p>
+      <p align="center">
+        <a href="https://github.com/AlejandraVelezz/Inventario-CeluTech"><b>🔍 Ver Repositorio »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 CRM Freelancer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p>Plataforma de gestión para trabajadores independientes con integración de Inteligencia Artificial.</p>
+      <p align="center">
+        <a href="https://github.com/AlejandraVelezz/crm-freelancer"><b>🔍 Ver Repositorio »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Métricas de GitHub
 
