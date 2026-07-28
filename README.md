@@ -31,6 +31,14 @@
 
 ---
 
+## 🚀 Actualmente Aprendiendo & Explorando
+
+- 🧠 **Inteligencia Artificial Aplicada:** Integración de modelos avanzadas de IA y automatización en aplicaciones web.
+- ⚡ **Docker & Contenedores:** Virtualización liviana para despliegue de entornos Full-Stack eficientes.
+- 🛡️ **Seguridad Web:** Buenas prácticas en autenticación segura, JWT y protección de APIs RESTful.
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### 🚀 Lenguajes & Frameworks
