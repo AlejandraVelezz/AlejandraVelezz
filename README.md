@@ -54,10 +54,10 @@
 - **Tech Stack:** FastAPI, React, MySQL.
 - **Aspectos clave:** Arquitectura moderna para control de stock, gestión de productos y procesamiento de datos.
 
-### 📊 [CRM Freelancer](https://github.com/AlejandraVelezz/crm-freelancer)
-> Plataforma de gestión de clientes, tareas y proyectos para profesionales independientes.
-- **Tech Stack:** JavaScript, HTML/CSS, Base de Datos Relacional.
-- **Aspectos clave:** Organización de proyectos, flujo de trabajo y métricas de desempeño.
+### 🤖 [CRM Freelancer](https://github.com/AlejandraVelezz/crm-freelancer)
+> Plataforma de gestión de clientes, tareas y proyectos integrada con Inteligencia Artificial para optimizar flujos de trabajo.
+- **Tech Stack:** JavaScript, HTML/CSS, Base de Datos Relacional, Integración con Inteligencia Artificial (IA).
+- **Aspectos clave:** Automatización de procesos asistida por IA, organización de proyectos y métricas de desempeño.
 
 ### 🛒 [Sistema de Ventas PHP & MySQL](https://github.com/AlejandraVelezz/sistem-ventas-php-mysql)
 > Aplicación web backend para control transaccional de ventas.
