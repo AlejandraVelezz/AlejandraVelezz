@@ -3,17 +3,7 @@
 
 <!-- BANNER SHARK / NEÓN CON TEXTO COMPLETO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:7F00FF,100:E100FF&height=220&text=¡Hola,%20soy%20Alejandra!%20👋&desc=Técnico%20en%20Programación%20de%20Software%20|%20Full-Stack%20Dev&fontSize=38&descSize=18&fontColor=ffffff&fontAlignY=40&descAlignY=65" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlejandraVelezz&label=Visitas+al+perfil&color=e100ff&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p><!-- BANNER SUPERIOR CON ONDA ANIMADA -->
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:7F00FF,100:E100FF&height=220&text=¡Hola,%20soy%20Alejandra!%20👋<!-- BANNER SUPERIOR CON ONDA ANIMADA -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&animation=twinkling" width="100%" />
 </p>
