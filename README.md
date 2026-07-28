@@ -1,6 +1,8 @@
 <!-- HEADER ANIMADO Y LLAMATIVO CON MOVIMIENTO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=210&text=¡Hola,%20soy%20Alejandra!%20👋&desc=Técnico%20en%20Programación%20de%20Software%20|%20Full-Stack%20Developer&fontSize=40&descSize=18&fontColor=ffffff&fontAlignY=40&descAlignY=65&animation=twinkling" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E100FF&center=true&vCenter=true&width=600&height=100&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%90%A7;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software;Full-Stack+Developer+%7C+Linux+%26+IA" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
