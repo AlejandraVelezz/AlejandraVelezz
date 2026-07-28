@@ -1,3 +1,34 @@
+<!-- ÍCONOS Y LENGUAJES FLOTANDO EN 3D -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/github.gif" width="55" alt="GitHub Flotante" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/python.gif" width="48" alt="Python Flotante" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/js.gif" width="48" alt="JS Flotante" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/react.gif" width="48" alt="React Flotante" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/php.gif" width="52" alt="PHP Flotante" />
+</p>
+
+<!-- ENCABEZADO Y TÍTULO LIMPIO -->
+<h1 align="center">¡Hola, soy Alejandra! 👋</h1>
+
+<p align="center">
+  <b>Técnico en Programación de Software | Full-Stack Developer</b>
+</p>
+
+<!-- CONTADOR DE VISITAS & REDES (UNA SOLA VEZ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlejandraVelezz&label=Visitas+al+perfil&color=e100ff&style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 <!-- BANNER DEGRADADO SUPERIOR -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=160&section=header&animation=twinkling" width="100%" />
