@@ -131,11 +131,6 @@
   ¡Siempre estoy abierta a colaborar en nuevos proyectos, resolver dudas o discutir sobre desarrollo de software!
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  
- 
-</p>
+<a href="https://www.linkedin.com/in/alejandra-velez-47560722b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
