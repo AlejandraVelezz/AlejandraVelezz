@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO / BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00f2fe,100:4facfe&height=220&text=¡Hola,%20soy%20Alejandra!%20👋&fontSize=45&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=200&text=¡Hola,%20soy%20Alejandra!%20👋&desc=Técnico%20en%20Programación%20de%20Software%20|%20Full-Stack%20Developer&fontSize=40&descSize=18&fontColor=ffffff&fontAlignY=40&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
