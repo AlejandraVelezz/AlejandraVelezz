@@ -89,9 +89,10 @@
   </tr>
 </table>
 
-## 📊 Métricas de GitHub
+## 📊 Métricas & Estado
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandraVelezz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraVelezz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF" />
+  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF" />
+  <img src="https://img.shields.io/badge/Status-Activa_programando_⚡-success?style=for-the-badge" />
 </p>
