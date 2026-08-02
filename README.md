@@ -1,14 +1,29 @@
+<!-- BANNER DEGRADADO SUPERIOR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=160&section=header&animation=twinkling" width="100%" />
+</p>
+
+<!-- ÍCONOS Y LENGUAJES FLOTANDO EN 3D -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/github.gif" width="60" alt="GitHub Flotante" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/python.gif" width="50" alt="Python Flotante" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/js.gif" width="50" alt="JS Flotante" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/react.gif" width="50" alt="React Flotante" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/php.gif" width="55" alt="PHP Flotante" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/html.gif" width="50" alt="HTML Flotante" />
+</p>
+
 <!-- EFECTO MÁQUINA DE ESCRIBIR DINÁMICO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=E100FF&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%91%8B+Hola%2C+soy+Alejandra+Montoya;Full-Stack+Developer;Building+Scalable+Web+Applications;Python+%7C+FastAPI+%7C+React+%7C+MySQL;REST+APIs+%7C+Artificial+Intelligence+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E100FF&center=true&vCenter=true&width=900&height=70&lines=%C2%A1Hola%2C+soy+Alejandra!+%F0%9F%91%8B;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software+%F0%9F%92%BB;Full-Stack+Developer+%7C+FastAPI%2C+React+%26+PHP;Sistemas+Operativos%2C+Linux+%26+IA+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- FRASE DE VALOR -->
-<h3 align="center">
-💡 Desarrollo aplicaciones web Full Stack que automatizan procesos y generan soluciones para negocios mediante APIs REST e Inteligencia Artificial.
-</h3>
 
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
@@ -17,21 +32,105 @@
 
 ---
 
-# 💻 Sobre mí
+## 💻 Sobre mí
 
-- 👩‍💻 **Desarrolladora Full Stack Junior** apasionada por crear aplicaciones web modernas y escalables.
-- 🚀 Experiencia desarrollando soluciones con **Python, FastAPI, React, JavaScript y MySQL**.
-- 🤖 Desarrollo aplicaciones con **integración de Inteligencia Artificial**, automatización de procesos y consumo de APIs.
-- 🗄️ Diseño e implementación de **bases de datos relacionales**, APIs REST y arquitecturas cliente-servidor.
-- 🖥️ Conocimientos en **Windows, Linux (Ubuntu)**, instalación y configuración de sistemas operativos y administración básica de entornos de desarrollo.
-- 📚 Actualmente fortaleciendo mis conocimientos en **Docker, Seguridad Web, Arquitectura de Software y Buenas Prácticas de Desarrollo**.
+- 🎓 **Técnico en Programación de Software**.
+- 🛠️ Desarrollo de plataformas web full-stack, sistemas de inventario y proyectos integrados con Inteligencia Artificial.
+- 🖥️ **Sistemas Operativos & SysAdmin:** Experiencia en instalación, personalización, configuración y administración de entornos **Linux (Ubuntu)**, **Windows** y máquinas virtuales.
+- ⚡ Enfoque en arquitectura limpia, APIs RESTful y optimización de bases de datos.
 
 ---
 
-# 🚀 Roadmap 2026
+## 🚀 Actualmente Aprendiendo & Explorando
 
-- 🧠 Inteligencia Artificial aplicada a aplicaciones web.
-- 🐳 Docker y virtualización de entornos.
-- 🔐 Seguridad Web (JWT, autenticación y autorización).
-- ☁️ Despliegue de aplicaciones Full Stack.
-- ⚙️ Arquitectura de software y buenas prácticas.
+- 🧠 **Inteligencia Artificial Aplicada:** Integración de modelos avanzados de IA y automatización en aplicaciones web.
+- ⚡ **Docker & Contenedores:** Virtualización liviana para despliegue de entornos Full-Stack eficientes.
+- 🛡️ **Seguridad Web:** Buenas prácticas en autenticación segura, JWT y protección de APIs RESTful.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🚀 Lenguajes & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Sistemas Operativos & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Inventario CeluTech</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p>Sistema web de gestión de inventario para tiendas de tecnología con control de stock y flujo transaccional.</p>
+      <p align="center">
+        <a href="https://github.com/AlejandraVelezz/Inventario-CeluTech"><b>🔍 Ver Repositorio »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 CRM Freelancer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/IA_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p>Plataforma de gestión para trabajadores independientes con integración de Inteligencia Artificial.</p>
+      <p align="center">
+        <a href="https://github.com/AlejandraVelezz/crm-freelancer"><b>🔍 Ver Repositorio »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Mi Gráfico de Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandraVelezz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Gráfico de actividad de Alejandra" />
+</p>
+
+---
+
+## ⚡ Estado & Actividad
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AlejandraVelezz?label=Seguidores&style=for-the-badge&color=7F00FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/AlejandraVelezz?label=Estrellas&style=for-the-badge&color=E100FF&logo=github" />
+  <img src="https://img.shields.io/badge/Estado-Activa_Programando_⚡-success?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 ¡Hablemos! / Contacto
+
+<p align="center">
+  ¡Siempre estoy abierta a colaborar en nuevos proyectos, resolver dudas o discutir sobre desarrollo de software!
+</p>
+
+<a href="https://www.linkedin.com/in/alejandra-velez-47560722b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
